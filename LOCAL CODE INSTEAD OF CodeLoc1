@@ -2,3 +2,4 @@ def menu():
     print("Tool Started Successfully")
     print("1 File Clone")
     print("2 Random Clone")
+menu()
